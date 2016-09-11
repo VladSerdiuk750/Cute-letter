@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700,100,100italic,300italic,400italic,500italic,500,700italic,900,900italic&subset=latin,cyrillic-ext,cyrillic);
+
+body {
+    background-image:url(img/nebo.jpg);
+    font-family: 'Roboto', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+div {
+    position: absolute;
+    text-align: center;
+    display: block;
+    width: 350px;
+    height: 200px;
+}
+.one {
+    background-color: blueviolet;
+    left: 15px; 
+    top: 15px;
+}
+.two {
+    background-color: blueviolet;
+    left: 1500px;
+    top: 105px;
+}
+.three {
+    background-color: blueviolet;
+    left: 980px;
+    top: 850px;
+}
+.four {
+    background-color: blueviolet;
+    left: 1450px;
+    top: 594px;
+}
+.five {
+    background-color: blueviolet;
+    left: 145px;
+    top: 567px;
+}
+.six {
+    background-color: blueviolet;
+    left: 915px;
+    top: 215px;
+}
+.seven {
+    background-color: blueviolet;
+    left: 600px;
+    top: 650px;
+}
+.eight {
+    background-color: blueviolet;
+    left: 465px;
+    top: 205px;
+}
+
+.main a {
+    font-size: 50px;
+}
+
