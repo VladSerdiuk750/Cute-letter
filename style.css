@@ -2,6 +2,8 @@
 
 body {
     background-image:url(img/nebo.jpg);
+    background-repeat: none;
+    background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
 a {
@@ -56,6 +58,6 @@ div {
 }
 
 .main a {
-    font-size: 50px;
+    font-size: 60px;
 }
 
